@@ -1,0 +1,35 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# Dependencies
+[Nn]uget/
+*.nupkg
+*.suo
+*.user
+*.cache
+*.vc.db
+
+# Runtime data
+[Ll]og/
+[Ll]ogs/
+
+# VS and Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# .NET Core
+project.lock.json
+artifacts/
+publish/
+
+# Environment files
+appsettings.*.json
+*.db
+*.sqlite
+
+# User-specific
+*.userprefs

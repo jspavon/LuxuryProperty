@@ -1,0 +1,20 @@
+{
+      // Configuración para .NET Test Explorer
+  "dotnet-test-explorer.testProjectPath": "/Users/stiven.pavon/Documents/Personal/pruebas-tecnicas/million/backend/LuxuryProperty/luxuryProperty.app.Test/luxuryProperty.app.Test.csproj",
+  "dotnet-test-explorer.showCodeLens": true,
+  "dotnet-test-explorer.autoWatch": true,
+
+  // Configuración para depuración
+  "dotnet.defaultSolution": "LuxuryProperty.sln",
+
+  // Configuración de C#
+  "omnisharp.projectLoadTimeout": 60,
+  "omnisharp.enableRoslynAnalyzers": true,
+  "omnisharp.enableEditorConfigSupport": true,
+  "omnisharp.enableDecompilationSupport": true,
+
+  // Terminal integrada
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.defaultProfile.osx": "zsh"
+}
